@@ -7,4 +7,6 @@ The most challenging concept has been GitHub, and the D.S folder confuses me.
 
 I am testing if this shows up in my testing branch. 
 
+I finished setting up the raw and processed data, and added the data 
+
 
